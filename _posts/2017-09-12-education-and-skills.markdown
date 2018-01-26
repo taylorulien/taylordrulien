@@ -3,7 +3,7 @@ layout: post
 title: Education & Skills
 date: 2017-09-12 00:00:00 +0300
 description:
-img: software.jpg # Add image post (optional)
+img: # Add image post (optional)
 tags: [school, college, skill, skillset, software] # add tag
 ---
 
