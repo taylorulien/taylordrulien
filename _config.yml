@@ -9,8 +9,8 @@ url: "http://taylordrulien.com" # the base hostname & protocol for your site, e.
 site-twitter: #if your site has a twitter account, enter it here
 
 # Author Settings
-author: Taylor D Rulien # add your name
-author-img: top.jpg # add your photo
+author: Taylor Rulien # add your name
+author-img:  # add your photo
 about-author: I'm a GIS nerd and Cartographer, interested in application development and data visualization. # add description
 twitter: # add your Twitter handle
 facebook: taylor.rulien
