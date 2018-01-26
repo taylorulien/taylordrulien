@@ -2,7 +2,7 @@
 layout: post
 title: Education & Skills
 date: 2017-09-12 00:00:00 +0300
-description:
+description: BS Geography | GIS | Python | ESRI | QGIS ...
 img: # Add image post (optional)
 tags: [school, college, skill, skillset, software] # add tag
 ---

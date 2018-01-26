@@ -2,7 +2,7 @@
 layout: post
 title: About Me
 date: 2017-09-12 00:00:00 +0300
-description: Creative, hard-working, orderly, friendly, outdoorsman, innovative, leader, runner, reliable, inteligent, motivated, runner, sociable
+description: Creative | Hard-working | Innovative | Leader | Inteligent | Motivated ...
 img:  # Add image post (optional)
 tags: [about, Taylor, Rulien]
 ---
