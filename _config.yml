@@ -9,7 +9,7 @@ url: "http://taylordrulien.com" # the base hostname & protocol for your site, e.
 site-twitter: #if your site has a twitter account, enter it here
 
 # Author Settings
-author: Taylor Rulien # add your name
+author: Taylor D Rulien # add your name
 author-img:  taylor_rulien.jpg # add your photo
 about-author: I'm a GIS nerd and Cartographer, interested in application development and data visualization. # add description
 twitter: # add your Twitter handle
@@ -19,7 +19,7 @@ linkedin: taylor-rulien-52809662
 email: taylordrulien@gmail.com
 
 # Disqus
-discus-identifier: trulien # add your discus identifier
+#discus-identifier: trulien # add your discus identifier
 
 # Tracker
 analytics: # Google Analytics
@@ -31,7 +31,7 @@ plugins:
   - jekyll-paginate
   - jemoji
 
-paginate: 8
-paginate_path: "/page/:num"
+#paginate: 8
+#paginate_path: "/page/:num"
 
 exclude: ["node_modules", "gulpfile.js", "package.json", "yarn.lock"]
