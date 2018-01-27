@@ -19,7 +19,7 @@ linkedin: taylor-rulien-52809662
 email: taylordrulien@gmail.com
 
 # Disqus
-#discus-identifier: trulien # add your discus identifier
+discus-identifier: trulien # add your discus identifier
 
 # Tracker
 analytics: # Google Analytics
@@ -32,6 +32,6 @@ plugins:
   - jemoji
 
 #paginate: 8
-#paginate_path: "/page/:num"
+paginate_path: "/page/:num"
 
 exclude: ["node_modules", "gulpfile.js", "package.json", "yarn.lock"]
