@@ -10,9 +10,9 @@ layout: main
   <div class="post-content">
     <h2 class="post-title"><a href="{{post.url | prepend: site.baseurl}}">{{post.title}}</a></h2>
     <p>{{ post.description | strip_html | truncatewords: 15 }}</p>
-    <span class="post-words">{% capture words %}{{ post.content | number_of_words }}{% endcapture %}{% unless words contains "-" %}{{ words | plus: 250 | divided_by: 250 | append: " minute read" }}{% endunless %}</span>
+    <!--<span class="post-words">{% capture words %}{{ post.content | number_of_words }}{% endcapture %}{% unless words contains "-" %}{{ words | plus: 250 | divided_by: 250 | append: " minute read" }}{% endunless %}</span> # this is to give a break down on how long the post will take to read. Not helpful for this post-->
   </div>
 </article>
 {% endfor %}
 
-<!--{% include pagination.html %} #Maybe bring back -->
+<!--{% include pagination.html %} #Maybe bring back, for multiple pages of info -->
