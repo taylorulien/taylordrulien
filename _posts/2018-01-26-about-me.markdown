@@ -6,7 +6,7 @@ description: Creative | Hard-working | Innovative | Leader | Inteligent | Motiva
 img:  # Add image post (optional)
 tags:
 ---
-Hi, I'm a GIS nerd and outdoor enthusiast. 
+## Hi, I'm a GIS nerd and outdoor enthusiast. 
 
 I’ve been lucky enough to have lived in some great West Coast states, from Alaska, Oregon, California, Colorado, and currently Washington. In my free time I spend a lot of time climbing (bouldering, trad, ice, alpine), trail running, and attending GIS events in Seattle.
 
