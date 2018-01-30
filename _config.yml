@@ -11,7 +11,7 @@ site-twitter: #if your site has a twitter account, enter it here
 # Author Settings
 author: Taylor Rulien # add your name
 author-img:  taylor_rulien.jpg # add your photo
-about-author: I'm a GIS nerd and Cartographer, interested in application development and data visualization. # add description
+about-author: I'm a GIS nerd, interested in application development and data visualization. # add description
 twitter: # add your Twitter handle
 facebook: taylor.rulien
 github: taylorulien # add your Github handle

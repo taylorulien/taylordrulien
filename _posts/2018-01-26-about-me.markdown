@@ -2,15 +2,15 @@
 layout: post
 title: About Me
 date: 2017-09-12 00:00:00 +0300
-description: Creative | Hard-working | Innovative | Leader | Inteligent | Motivated ...
+description: Creative | Hard-working | Innovative | Leader | Intelligent | Motivated ...
 img:  # Add image post (optional)
 tags:
 ---
-## Hi, I'm a GIS nerd and outdoor enthusiast. 
+### Hi, I'm a GIS nerd and outdoor enthusiast. 
 
-I’ve been lucky enough to have lived in some great West Coast states, from Alaska, Oregon, California, Colorado, and currently Washington. In my free time I spend a lot of time climbing (bouldering, trad, ice, alpine), trail running, and attending GIS events in Seattle.
+I’ve been lucky enough to have lived in many of the western states, from *Alaska, Oregon, California, Colorado, and Washington.* In my free time I spend a lot of time climbing (bouldering, trad, ice, alpine), trail running, and attending GIS events in Seattle.
 
-I take pride in being a do-it-all GIS Specialist - though data collection, database design, data processing, and cartography. Feel free to contact me on social media or via email. I would be happy to grab coffee and discuss anything GIS.   
+I take pride in being a do-it-all GIS Specialist - through data collection, database design, data processing, and cartography; I can take a project from the start to the final product. Feel free to contact me on social media or via email. I would be happy to grab coffee and discuss anything GIS.   
 
 
 

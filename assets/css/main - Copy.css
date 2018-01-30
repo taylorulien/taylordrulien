@@ -775,7 +775,7 @@ html {
 body {
   font-family: 'Lato', sans-serif;
   color: #515151;
-  background-color: #E8E6E2;
+  background-color: #fbfbfb;
   margin: 0;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
@@ -901,7 +901,6 @@ table tfoot td {
   display: -webkit-flex;
   display: -ms-flexbox;
   display: flex;
-  font-color: #ffffff;
   -webkit-box-orient: vertical;
   -webkit-box-direction: normal;
   -webkit-flex-direction: column;
@@ -918,7 +917,7 @@ table tfoot td {
   width: 240px;
   height: 100%;
   padding: 20px 10px;
-  background-color: #727c91;
+  background-color: #ffffff;
 }
 
 .about {
@@ -930,12 +929,11 @@ table tfoot td {
   width: 150px;
   height: 150px;
   margin: 0 auto 10px;
-  border: 5px solid #ffffff;
   -webkit-border-radius: 100%;
           border-radius: 100%;
   overflow: hidden;
-  background-color: #ffffff;
-  opacity: 0.9;
+  background-color: #333030;
+  opacity: 0.8;
 }
 
 .about img {
@@ -962,7 +960,7 @@ table tfoot td {
   padding-bottom: 15px;
   font-size: 36px;
   text-transform: uppercase;
-  color: #ffffff;
+  color: #4d5668;
   font-weight: 700;
 }
 
@@ -979,7 +977,7 @@ table tfoot td {
   height: 7px;
   -webkit-border-radius: 100%;
           border-radius: 100%;
-  background-color: #ffffff;
+  background-color: #515151;
 }
 
 .about p {
@@ -994,7 +992,7 @@ table tfoot td {
   display: -webkit-flex;
   display: -ms-flexbox;
   display: flex;
-    -webkit-box-orient: horizontal;
+  -webkit-box-orient: horizontal;
   -webkit-box-direction: normal;
   -webkit-flex-direction: row;
       -ms-flex-direction: row;
@@ -1010,7 +1008,7 @@ table tfoot td {
 
 .contact .contact-title {
   position: relative;
-  color: #ffffff;
+  color: #333030;
   font-weight: 400;
   font-size: 12px;
   margin: 0 0 5px;
@@ -1030,7 +1028,7 @@ table tfoot td {
   position: absolute;
   top: 50%;
   left: 0;
-  background-color: #ffffff;
+  background-color: #515151;
 }
 
 .contact .contact-title::after {
@@ -1045,7 +1043,7 @@ table tfoot td {
   position: absolute;
   top: 50%;
   right: 0;
-  background-color: #ffffff;
+  background-color: #515151;
 }
 
 .contact ul {
@@ -1065,7 +1063,7 @@ table tfoot td {
 }
 
 .contact ul li a {
-  color: #ffffff;
+  color: #515151;
   display: block;
   padding: 5px;
   font-size: 18px;
@@ -1085,7 +1083,6 @@ footer .copyright {
   font-size: 14px;
   text-align: center;
   margin: 0;
-  color: #ffffff;
 }
 
 .post {
@@ -1105,7 +1102,7 @@ footer .copyright {
   -webkit-align-items: stretch;
       -ms-flex-align: stretch;
           align-items: stretch;
-  min-height: 14rem;
+  min-height: 11rem;
   -webkit-border-radius: 10px;
           border-radius: 10px;
   overflow: hidden;
@@ -1146,7 +1143,7 @@ footer .copyright {
 .post .post-content .post-title {
   margin: 0 0 10px;
   font-size: 30px;
-  font-weight: 500;
+  font-weight: 600;
 }
 
 .post .post-content .post-title a {
@@ -1370,7 +1367,6 @@ a.newer-posts:hover {
     display: -webkit-flex;
     display: -ms-flexbox;
     display: flex;
-    font-color: #ffffff;
     -webkit-box-orient: vertical;
     -webkit-box-direction: normal;
     -webkit-flex-direction: column;
@@ -1382,7 +1378,7 @@ a.newer-posts:hover {
             justify-content: space-between;
     width: 100%;
     padding: 10px;
-    background-color: #727c91;
+    background-color: #ffffff;
     -webkit-box-shadow: 0 1px 1px 0 rgba(31, 35, 46, 0.15);
             box-shadow: 0 1px 1px 0 rgba(31, 35, 46, 0.15);
   }
@@ -1422,7 +1418,6 @@ a.newer-posts:hover {
   }
   .contact-title, .copyright {
     display: none;
-    color: #ffffff;
   }
 }
 
