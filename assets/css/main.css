@@ -1105,7 +1105,7 @@ footer .copyright {
   -webkit-align-items: stretch;
       -ms-flex-align: stretch;
           align-items: stretch;
-  min-height: 14rem;
+  min-height: 13.5rem;
   -webkit-border-radius: 10px;
           border-radius: 10px;
   overflow: hidden;

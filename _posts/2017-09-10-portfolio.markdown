@@ -5,8 +5,80 @@ date: 2017-09-10 00:00:00 +0300
 description: Past Work Examples | Current Projects ...
 tags: [current work, projects, portfolio] # add tag
 ---
-Jean shorts organic cornhole, gochujang post-ironic chicharrones authentic flexitarian viral PBR&B forage wolf. Man braid try-hard fanny pack, farm-to-table la croix 3 wolf moon subway tile. Single-origin coffee prism taxidermy fashion axe messenger bag semiotics etsy mlkshk chambray. Marfa lumbersexual meditation celiac. Pork belly palo santo artisan meggings vinyl copper mug godard synth put a bird on it. Cloud bread pop-up quinoa, raw denim meditation 8-bit slow-carb. Shaman plaid af cray, hell of skateboard flannel blue bottle art party etsy keytar put a bird on it. Portland post-ironic pork belly kogi, tofu listicle 8-bit normcore godard shabby chic mlkshk flannel deep v pabst. Pork belly kinfolk fingerstache lo-fi raclette. Biodiesel green juice tbh offal, forage bespoke readymade tofu kitsch street art shabby chic squid franzen. Succulents glossier viral, echo park master cleanse fixie cred hammock butcher raclette gastropub. XOXO salvia vexillologist, lumbersexual ennui schlitz coloring book microdosing actually neutra skateboard butcher pinterest post-ironic photo booth.
 
-Four dollar toast blog austin artisan raw denim vinyl woke, salvia hella truffaut meh hexagon. Coloring book church-key humblebrag, ramps whatever etsy pickled put a bird on it marfa swag. Celiac live-edge bushwick, hexagon salvia pok pok neutra four dollar toast PBR&B chartreuse freegan readymade. Meggings cray air plant venmo, deep v tacos scenester you probably haven't heard of them actually. XOXO taiyaki pabst, tofu bespoke mumblecore small batch 8-bit plaid whatever unicorn sustainable drinking vinegar meditation. Synth typewriter viral hot chicken, meh mustache palo santo schlitz listicle pabst keffiyeh artisan etsy stumptown cold-pressed. Occupy locavore cray irony. Chambray whatever vaporware keffiyeh heirloom vice. Single-origin coffee neutra iPhone lyft. Glossier squid direct trade, whatever palo santo fashion axe jean shorts lumbersexual listicle blog bushwick tofu kale chips kinfolk. Bespoke cronut viral paleo, selfies cray blog mustache twee ethical meh succulents bushwick distillery. Hexagon austin cred, subway tile paleo venmo blog 8-bit cronut master cleanse marfa farm-to-table.
 
-Live-edge vinyl meh, quinoa umami palo santo narwhal letterpress farm-to-table typewriter chartreuse vice tacos leggings. Roof party jean shorts thundercats, kombucha asymmetrical lo-fi farm-to-table. Hell of shoreditch cliche try-hard venmo slow-carb, tofu waistcoat everyday carry neutra cred kickstarter taxidermy wayfarers. Direct trade banh mi pug skateboard banjo edison bulb. Intelligentsia cliche quinoa synth umami. Trust fund four loko hoodie paleo cray tote bag slow-carb ennui. Williamsburg food truck intelligentsia trust fund. Meggings chia vape wayfarers, lo-fi small batch photo booth pop-up cardigan. Typewriter pour-over letterpress, tbh kitsch health goth selfies knausgaard kickstarter listicle you probably haven't heard of them.
+<br>
+
+<span style="font-size: x-large;">**Bill Loy Award**</span>  
+*@ University of Oregon*
+<br>
+
+<img src="../assets/img/1_BillLoyAward.jpg" width="700">  
+<p style="font-size: 14px; color: #6a6a6b;"><b>Tools I Used:</b> ArcMap, Adobe Illustrator</p>
+
+<br>
+
+---
+
+<br>
+
+<span style="font-size: x-large;">**Cross Section**</span>   
+*@ Fehr and Peers*
+<br>
+
+<img src="../assets/img/crossSection.jpg" width="700">
+<p style="font-size: 14px; color: #6a6a6b;"><b>Tools I Used:</b> ArcMap, Adobe Illustrator, Autodesk Infraworks</p>
+
+<br>
+
+---
+
+<br>
+
+<span style="font-size: x-large;">**Oregon Department of Transportation - Bike Map**</span>  
+*@ InfoGraphics Lab*
+<br>
+
+<img src="../assets/img/ODOT.jpg" width="700">
+<p style="font-size: 14px; color: #6a6a6b;"><b>Tools I Used:</b> ArcMap, Adobe Illustrator, InDesign</p>
+
+<br>
+
+---
+
+<br>
+
+<span style="font-size: x-large;">**Level of Traffic Stress**</span>  
+*@ Fehr and Peers*
+<br>
+
+<img src="../assets/img/LTS.jpg" width="700">
+<p style="font-size: 14px; color: #6a6a6b;"><b>Tools I Used:</b> ArcMap, Python, Excel</p>
+
+<br>
+
+---
+
+<br>
+
+<span style="font-size: x-large;">**This is How We Roll - Poster**</span>  
+*@ Fehr and Peers*
+<br>
+
+<img src="../assets/img/ThisIsHowWeRoll.jpg" width="700">
+<p style="font-size: 14px; color: #6a6a6b;"><b>Tools I Used:</b> ArcMap, Adobe Illustrator, InDesign, Photoshop</p>
+
+<br>
+
+---
+
+<br>
+
+<span style="font-size: x-large;">**Link Transit New Line Analysis**</span>  
+*@ Fehr and Peers*
+<br>
+
+<img src="../assets/img/LinkRail_SnakeDiagram.jpg" width="700">
+<p style="font-size: 14px; color: #6a6a6b;"><b>Tools I Used:</b> ArcMap, Excel</p>
+
+

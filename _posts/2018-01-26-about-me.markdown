@@ -15,5 +15,5 @@ I take pride in being a do-it-all GIS Specialist - through data collection, data
 
 
 
-![I and My friends]({{site.baseurl}}/assets/img/about-me.jpg)
+![Me]({{site.baseurl}}/assets/img/about-me.jpg)
 
