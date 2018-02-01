@@ -79,6 +79,6 @@ tags: [current work, projects, portfolio] # add tag
 <br>
 
 <img src="../assets/img/LinkRail_SnakeDiagram.jpg" width="700">
-<p style="font-size: 14px; color: #6a6a6b;"><b>Tools I Used:</b> ArcMap, Excel</p>
+<p style="font-size: 14px; color: #6a6a6b;"><b>Tools I Used:</b> ArcMap, Python, Excel</p>
 
 
